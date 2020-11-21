@@ -21,3 +21,11 @@
     -18px 36px 1px #bcbbba, -19px 38px 1px #c1bfbf, -20px 40px 1px #c6c4c4, -21px 42px 1px #cbc9c8, -22px 44px 1px #cfcdcd, -23px 46px 1px #d4d2d1,
     -24px 48px 1px #d8d6d5, -25px 50px 1px #dbdad9, -26px 52px 1px #dfdddc, -27px 54px 1px #e2e0df, -28px 56px 1px #e4e3e2;
 }
+
+.center-header {
+    text-align: center;
+    font-family: "Roboto Light", serif;
+    font-weight: 700;
+    width: 70%;
+    margin: 0 auto;
+}
