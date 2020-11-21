@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    background-color: #e7e5e4;
+}
+
 .page-heading {
     box-sizing: border-box;
     font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic,
@@ -12,7 +16,6 @@
     text-align: center;
     text-rendering: optimizeLegibility;
     color: #131313;
-    background-color: #e7e5e4;
     letter-spacing: 0.15em;
     text-shadow: 1px -1px 0 #767676, -1px 2px 1px #737272, -2px 4px 1px #767474,
     -3px 6px 1px #787777, -4px 8px 1px #7b7a7a, -5px 10px 1px #7f7d7d,
@@ -26,6 +29,6 @@
     text-align: center;
     font-family: "Roboto Light", serif;
     font-weight: 700;
-    width: 70%;
+    width: 90%;
     margin: 0 auto;
 }
